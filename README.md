@@ -22,5 +22,5 @@ A blank line separates each sentence.
 
 ## Annotation Guidelines
 
-For more details about the annotation guidelines, please see [here](guideline.pdf).
+For more details about the annotation guidelines, please see [here](guidelines.pdf).
 
