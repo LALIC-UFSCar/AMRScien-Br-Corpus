@@ -8,7 +8,7 @@ This corpus is distributed under the [CC-BY-NC-SA](LICENSE.md) license.
 
 ## Corpus Notation
 
-AMRScien-Br follow a standard notation to ease the reading of files. A corpus file contains multiple sentences, each with some metainformation, which starts with a hashtag followed by double colons (# ::) and a keyword (id, snt). Then, the AMR graph representation in the PENMAN notation is written. An example is shown below:
+AMRScien-Br follow a standard notation to ease the reading of files. The corpus file contains multiple sentences, each with some metainformation, which starts with a hashtag followed by double colons (# ::) and a keyword (id, snt). Then, the AMR graph representation in the PENMAN notation is written. An example is shown below:
 
   <pre> 
   # ::id 16
